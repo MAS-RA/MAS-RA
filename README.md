@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAS-RA
+- 👋 Hi, I’m Ali Saeed (@MAS-RA)
 - 👀 I’m interested in Programming applications and websites also cybersecurity
 - 🌱 I’m currently learning C++ & F#
 - 💞️ I’m looking to collaborate on codecanyon
