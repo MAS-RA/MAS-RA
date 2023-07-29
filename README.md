@@ -7,8 +7,8 @@ Hey there! 👋 I'm Ali Saeed, a passionate software developer and tech enthusia
 - 🔭 I’m currently working on [SanIDE](https://developer.bmde-labs.com/help-center/categories/3/sanide) - an Integrated Development Environment (IDE) designed to streamline the software development process.
 - 🌱 I’m currently learning [React](https://reactjs.org/) to enhance my frontend development skills.
 - 💬 Ask me about anything related to software development, from C# to PHP, I love discussing tech topics!
-- 📫 How to reach me: Drop me an email at [your-email@example.com](mailto:your-email@example.com).
-- 😄 Pronouns: [He/She/They].
+- 📫 How to reach me: Drop me an email at [mas563563@gmail.com](mailto:mas563563@gmail.com).
+- 😄 Pronouns: [He/him/].
 - ⚡ Fun fact: I'm a huge fan of [flutter](https://flutter.dev/), an up-and-coming programming language with a unique twist!
 
 ## 🛠️ Tech Stack
