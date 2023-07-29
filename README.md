@@ -1,7 +1,5 @@
 # About Me
 
-![Profile Picture](https://avatars.githubusercontent.com/u/66668753?v=4)
-
 Hey there! 👋 I'm Ali Saeed, a passionate software developer and tech enthusiast. Welcome to my GitHub profile!
 
 ## 🚀 Quick Overview
